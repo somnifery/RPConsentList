@@ -531,168 +531,106 @@
         </div>
         <div id="EditOverlay" class="overlay">
             <textarea id="Kinks">
-#Bodies
+#Overarching Consent
 (General)
-* Skinny
-* Chubby
-* Small breasts
-* Large breasts
-* Small cocks
-* Large cocks
+* Permanent injury to your character
+* Romancing your character
+* Death of your character
 
-#Clothing
-(Self, Partner)
-* Clothed sex
-* Lingerie
-* Stockings
-* Heels
-* Leather
-* Latex
-* Uniform / costume
-* Cross-dressing
+#Mental 
+(General) 
+* Alcohol Abuse/Addiction Issues
+* Amnesia/Memory Loss
+* Animalistic Behavior/Going "Feral"
+* Anxiety/Panic Attacks
+* Depression
+* Emotional Abuse
+* Gaslighting
+* Grief/Mourning
+* Hallucinations
+* Hypnotism
+* Memory Modification
+* Mental Abuse
+* Mind control
+* Possession/Voidsent
+* Psychosis or Psychotic Breakdowns
+* Stalking
+* Suicide
+* Self Harm
+* Torture (Psychological)
 
-#Groupings
+#Physical
 (General)
-* You and 1 male
-* You and 1 female
-* You and MtF trans
-* You and FtM trans
-* You and 1 male, 1 female
-* You and 2 males
-* You and 2 females
-* Orgy
-
-#General
-(Giving, Receiving)
-* Romance / Affection
-* Handjob / fingering
-* Blowjob
-* Deep throat
-* Swallowing
-* Facials
-* Cunnilingus
-* Face-sitting
-* Edging
-* Teasing
-* JOI, SI
-
-#Ass play
-(Giving, Receiving)
-* Anal toys
-* Anal sex, pegging
-* Rimming
-* Double penetration
-* Anal fisting
-
-#Restrictive
-(Self, Partner)
-* Gag
-* Collar
-* Leash
-* Chastity
-* Bondage (Light)
-* Bondage (Heavy)
-* Encasement
-
-#Toys
-(Self, Partner)
-* Dildos
-* Plugs
-* Vibrators
-* Sounding
-
-#Domination
-(Dominant, Submissive)
-* Dominant / Submissive
-* Domestic servitude
-* Slavery
-* Pet play
-* DD/lg, MD/lb
-* Discipline
-* Begging
-* Forced orgasm
-* Orgasm control
-* Orgasm denial
-* Power exchange
-
-#No consent
-(Aggressor, Target)
-* Non-con / rape
-* Blackmail / coercion
-* Kidnapping
-* Drugs / alcohol
-* Sleep play
-
-#Taboo
-(General)
-* Incest
-* Ageplay
-* Interracial / Raceplay
-* Bestiality
-* Necrophilia
-* Cheating
-* Exhibitionism
-* Voyeurism
-
-#Surrealism
-(Self, Partner)
-* Futanari
-* Furry
-* Vore
-* Transformation
-* Tentacles
-* Monster or Alien
-
-#Fluids
-(General)
+* Acid
+* Being Eaten Alive (Vore)
 * Blood
-* Watersports
-* Scat
-* Lactation
-* Diapers
-* Cum play
+* Body Horror (Minor to Moderate)
+* Body Horror (Moderate to Severe)
+* Bodily Fluids (Excluding Blood) (Bile/Vomit, Spinal Fluid, Pus, Breast Milk, Sexual Fluids, etc)
+* Burning/Death by Fire
+* Cannibalism
+* Deep Water
+* Dismemberment
+* Drowning
+* Doppelgangers/Being replaced with a copy
+* Electrocution
+* Eyeballs/Eye Trauma
+* Freezing to death
+* Gore/Guts
+* Hand/Fingernail Trauma
+* Human/Ritual Sacrifice
+* Medical Experimentation
+* Neck and Throat Trauma
+* Non-Consensual Body Modification
+* Paralysis
+* Physical Abuse
+* Poison and the after-effects
+* Scarring
+* Sensory Loss (Sight, Hearing, Touch, Taste, Smell)
+* Sexual Abuse
+* Starvation
+* Suffocation
+* Tendon/Nerve Injuries
+* Thirst
+* Torture (Physical)
+* Waterboarding
 
-#Degradation
-(Giving, Receiving)
-* Glory hole
-* Name calling
-* Humiliation
+#Phobias & External Factors
+(General)
+* Bugs and Insects (General)
+* Dolls/Puppets
+* Ghosts/Spirits
+* Harm to Animals
+* Necromancy/The Undead/Zombies
+* Needles / Pointed Objects
+* Rats
+* Snakes
+* Spiders
+* Small/Enclosed Spaces
 
-#Touch & Stimulation
-(Actor, Subject)
-* Cock/Pussy worship
-* Ass worship
-* Foot play
-* Tickling
-* Sensation play
-* Electro stimulation
-
-#Misc. Fetish
-(Giving, Receiving)
-* Fisting
-* Gangbang
-* Breath play
-* Impregnation
+#Disease & Health
+(General)
+* Autoimmune diseases (General)/Chronic Disease
+* Cancer or similar diseases
+* Necrosis/Rotting Flesh
+* Parasites
 * Pregnancy
-* Feminization
-* Cuckold / Cuckquean
+* Substance Abuse/Addiction Issues (excluding Alcohol)
 
-#Pain
-(Giving, Receiving)
-* Light pain
-* Heavy pain
-* Nipple clamps
-* Clothes pins
-* Caning
-* Flogging
-* Beating
-* Spanking
-* Cock/Pussy slapping
-* Cock/Pussy torture
-* Hot Wax
-* Scratching
-* Biting
-* Cutting                
+#Sociopolitical Issues
+(General)
+* Genocide
+* Human Trafficking
+* Plague/Pandemic/Global disease epidemic
+* Prostitution
+* Public Execution
+* Racism (Fantasy)
+* Rape/Sexual Assault
+* Religion (Fantasy)
+* Religious Extremism
+* Sexism
+* Terrorism
+* Xenophobia            
             </textarea>
             <button id="KinksOK">Accept</button>
         </div>
