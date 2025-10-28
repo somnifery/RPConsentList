@@ -1,2 +1,2 @@
 # KinkList
-Easily create [kink list](https://goctionni.github.io/KinkList/v1.0.2.html)
+Easily create [kink list](https://goctionni.github.io/RPConsentList/Consent_1.0.html)
