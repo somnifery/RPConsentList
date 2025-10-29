@@ -9,7 +9,7 @@
         <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAWdEVYdENyZWF0aW9uIFRpbWUAMTAvMjEvMTV5ehY1AAAAZElEQVQ4jaWTwQ3AIAwDbcT+I9f9hjYQA/mAkO7igKAACWdFAF0A2gb0hP0uCyTATyAJSoaK5xGyEmTC9lktmORUdAQvBQ5cJshktoDk0HkmKRNUEmuE6ztYVXe7bT+jW7z9zi8qYiodCjCHKgAAAABJRU5ErkJggg==">
         <style>
             body {
-                font-family: 'Nunito', 'Arial';
+                font-family: 'Nunito', sans-serif;
                 font-size: 12px;
             }
             h2 {
@@ -895,7 +895,7 @@
                         context.fillStyle = '#FFFFFF';
                         context.fillRect(0, 0, canvas.width, canvas.height);
                         
-                        context.font = "bold 24px Arial";
+                        context.font = "bold 24px Nunito";
                         context.fillStyle = '#000000';
                         context.fillText('Consent List ' + username, 5, 25);
                         
@@ -905,21 +905,21 @@
                     drawCallHandlers: {
                         simpleTitle: function(context, drawCall){
                             context.fillStyle = '#000000';
-                            context.font = "bold 18px Arial";
+                            context.font = "bold 18px Nunito";
                             context.fillText(drawCall.data, drawCall.x, drawCall.y + 5);
                         },
                         titleSubtitle: function(context, drawCall){
                             context.fillStyle = '#000000';
-                            context.font = "bold 18px Arial";
+                            context.font = "bold 18px Nunito";
                             context.fillText(drawCall.data.category, drawCall.x, drawCall.y + 5);
                             
                             var fieldsStr = drawCall.data.fields.join(', ');
-                            context.font = "italic 12px Arial";
+                            context.font = "italic 12px Nunito";
                             context.fillText(fieldsStr, drawCall.x, drawCall.y + 20);
                         },
                         kinkRow: function(context, drawCall){
                             context.fillStyle = '#000000';
-                            context.font = "12px Arial";
+                            context.font = "12px Nunito";
                             
                             var x = drawCall.x + 5 + (drawCall.data.choices.length * 20);
                             var y = drawCall.y - 6;
