@@ -958,7 +958,7 @@
                         
                         context.font = "bold 24px Arial";
                         context.fillStyle = '#000000';
-                        context.fillText('Playlist ' + username, 5, 25);
+                        context.fillText('RP Consent List ' + username, 5, 25);
                         
                         inputKinks.drawLegend(context);
                         return { context: context, canvas: canvas };
@@ -1134,7 +1134,7 @@
                         
                         // Trigger download of the canvas image
                         var link = document.createElement('a');
-                        link.download = 'playlist.png';
+                        link.download = 'RPConsentList.png';
                         link.href = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream');
                         link.click();
 
